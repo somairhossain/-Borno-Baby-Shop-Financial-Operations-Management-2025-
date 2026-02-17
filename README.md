@@ -7,6 +7,15 @@ It serves as a centralized accounting ledger, expense tracker, inventory monitor
 ---
 
 ## 🧾 Project Overview
+<img width="1871" height="725" alt="image" src="https://github.com/user-attachments/assets/8baa3b9a-992f-448c-857f-b3e788392f0c" />
+<img width="1810" height="715" alt="image" src="https://github.com/user-attachments/assets/6292dd17-0400-494f-b7cc-b36d977f2d94" />
+<img width="1812" height="718" alt="image" src="https://github.com/user-attachments/assets/6215eab2-9463-4e20-85e3-7eda424827a4" />
+<img width="1256" height="713" alt="image" src="https://github.com/user-attachments/assets/96bdf592-f449-4860-9588-b0ea4e1c9f07" />
+<img width="307" height="458" alt="image" src="https://github.com/user-attachments/assets/a8d1e2f2-cb61-411d-b8cd-82d6b432bbd0" />
+
+<img width="836" height="720" alt="image" src="https://github.com/user-attachments/assets/0fa108aa-cdab-4bcd-be78-246372687476" />
+<img width="548" height="726" alt="image" src="https://github.com/user-attachments/assets/61a55a44-a007-4ee0-b2d0-ad22513104e2" />
+
 
 The spreadsheet is designed to manage day-to-day business activities, including:
 
